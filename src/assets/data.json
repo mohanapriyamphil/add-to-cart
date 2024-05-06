@@ -1,0 +1,58 @@
+[
+    {
+      "item": "Product 1",
+      "id": 1,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Fancy Product",
+      "rate": "40"
+    },
+    {
+      "item": "Product 2",
+      "id": 2,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Special item",
+      "rate": "20"
+    },
+    {
+      "item": "Product 3",
+      "id": 3,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Sale item",
+      "rate": "50"
+    },
+    {
+      "item": "Product 4",
+      "id": 4,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Popular item",
+      "rate": "40"
+    },
+    {
+      "item": "Product 5",
+      "id": 5,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Sale item",
+      "rate": "50"
+    },
+    {
+      "item": "Product 6",
+      "id": 6,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Fancy Product",
+      "rate": "120"
+    },
+    {
+      "item": "Product 7",
+      "id": 7,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Special item",
+      "rate": "20"
+    },
+    {
+      "item": "Product 8",
+      "id": 8,
+      "imageUrl": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Popular item",
+      "rate": "40"
+    }
+  ]

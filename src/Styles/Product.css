@@ -1,0 +1,49 @@
+.rootItem {
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px gainsboro solid;
+    overflow: hidden;
+}
+
+.rootItem .img {
+    width: 100%;
+    height: 200px;
+}
+
+.rootItem .img img {
+    width: 100%;
+    height: 100%;
+}
+
+.details {
+    padding: 10px;
+}
+
+.details h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.details p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.rootItem .btn button {
+    display: block;
+    margin: auto;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.rootItem .btn button:hover {
+    background-color: black;
+    color: white !important;
+}
+
+.btnRemove {
+    background-color: rgb(245, 3, 3);
+    color: white;
+}

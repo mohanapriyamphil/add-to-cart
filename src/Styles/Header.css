@@ -1,0 +1,47 @@
+nav {
+    background-color: #f8f9fa;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    gap: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding-right: 30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+.title {
+    height: 200px;
+    width: 100vw;
+    justify-content: center;
+    background-color: #212529;
+}
+
+.title h1 {
+    padding-top: 16px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.title p {
+    text-align: center;
+    color: #909294;
+    font-size: 20px;
+}
